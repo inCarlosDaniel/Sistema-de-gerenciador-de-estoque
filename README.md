@@ -41,8 +41,7 @@ Programa em Python para gerenciamento de estoque, com cadastro de produtos, regi
 
 ```text
 Sistema-de-gerenciador-de-estoque/
-├── BancoEstoque.py
 ├── Cadastro.py
 ├── estoque_dados.py
 ├── estoque.db
-└── manage.py
+└── menu.py
