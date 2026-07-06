@@ -14,7 +14,7 @@ Sistema desenvolvido em Python para facilitar o controle de produtos, movimenta�
 
 ## Objetivo do Projeto
 
-O Sistema de Gerenciamento de Estoque tem como objetivo ajudar negócios, estudantes ou equipes a controlar seus produtos com mais organização, reduzindo erros no registro de entradas e saídas e facilitando a análise do saldo disponível.
+O Sistema de Gerenciamento de Estoque tem como objetivo ajuda negócios, estudantes ou equipes a controlar seus produtos com mais organização, reduzindo erros no registro de entradas e saídas e facilitando a análise do saldo disponível.
 
 A aplicação foi criada para solucionar problemas como:
 
